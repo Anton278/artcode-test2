@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "OrelegaOne";
+    src: url("./fonts/OrelegaOne-Regular.eot");
+    src: local("☺"), url("./fonts/OrelegaOne-Regular.woff") format("woff"),
+        url("./fonts/OrelegaOne-Regular.ttf") format("truetype"),
+        url("./fonts/OrelegaOne-Regular.svg") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
